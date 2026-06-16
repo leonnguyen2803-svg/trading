@@ -12,8 +12,8 @@ btc_invest_vnd = 100_000_000
 btc_buy_usd = 63200
 
 # TAO (Bittensor)
-tao_invest_vnd = 50_000_000
-tao_buy_usd = 320
+tao_invest_vnd = 35_000_000
+tao_buy_usd = 258
 
 # Gold
 gold_qty = 20
