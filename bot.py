@@ -114,17 +114,15 @@ message = f"""
 Giá: {btc_usd:,.0f} USD
 Giá VNĐ: {btc_vnd:,.0f}
 Lợi nhuận: {btc_profit_pct:+.2f}% ({btc_profit_vnd:+,.0f} VNĐ)
-
-🟣 TAO (Bittensor)
+🟣 TAO
 Giá: {tao_usd:,.2f} USD
 Giá VNĐ: {tao_vnd:,.0f}
 Lợi nhuận: {tao_profit_pct:+.2f}% ({tao_profit_vnd:+,.0f} VNĐ)
-
-🟡 Vàng nhẫn 999.9
+🟡 Vàng
 Giá hiện tại: {gold_price if gold_price else 'N/A'} VNĐ/chỉ
 Lợi nhuận: {gold_profit_pct:+.2f}% ({gold_profit_vnd:+,.0f} VNĐ)
 
-📊 Tổng danh mục
+Tổng danh mục
 Lợi nhuận: {total_profit_pct:+.2f}% ({total_profit_vnd:+,.0f} VNĐ)
 Tổng tài sản: {total_now:,.0f} VNĐ
 """
