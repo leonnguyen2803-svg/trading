@@ -8,7 +8,7 @@ headers = {"User-Agent": "Mozilla/5.0"}
 # ================= INPUT =================
 
 # BTC
-btc_invest_vnd = 100_000
+btc_invest_vnd = 9_000_000
 btc_buy_usd = 65600
 
 # TAO (Bittensor)
