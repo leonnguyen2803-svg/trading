@@ -8,15 +8,15 @@ headers = {"User-Agent": "Mozilla/5.0"}
 # ================= INPUT =================
 
 # BTC
-btc_invest_vnd = 1_900_000
+btc_invest_vnd = 19_000_000
 btc_buy_usd = 62900
 
 # TAO (Bittensor)
-tao_invest_vnd = 5_000_000
+tao_invest_vnd = 50_000_000
 tao_buy_usd = 256
 
 # Gold
-gold_qty = 1
+gold_qty = 20
 gold_buy_per_chi = 17_300_000
 
 # ================= FX RATE =================
