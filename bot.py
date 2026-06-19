@@ -8,11 +8,11 @@ headers = {"User-Agent": "Mozilla/5.0"}
 # ================= INPUT =================
 
 # BTC
-btc_invest_vnd = 9_000_000
-btc_buy_usd = 65600
+btc_invest_vnd = 1_900_000
+btc_buy_usd = 62900
 
 # TAO (Bittensor)
-tao_invest_vnd = 2_000_000
+tao_invest_vnd = 5_000_000
 tao_buy_usd = 256
 
 # Gold
