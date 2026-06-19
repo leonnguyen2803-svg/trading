@@ -124,7 +124,7 @@ Lợi nhuận: {tao_profit_pct:+.2f}% ({tao_profit_vnd:+,.0f} VNĐ)
 🟡 Vàng
 Giá hiện tại: {gold_price if gold_price else 'N/A'} VNĐ/chỉ
 Lợi nhuận: {gold_profit_pct:+.2f}% ({gold_profit_vnd:+,.0f} VNĐ)
-
+==========================================================================
 📊 TỔNG DANH MỤC
 💹 Lợi nhuận: {total_profit_pct:+.2f}% ({total_profit_vnd:+,.0f} VNĐ)
 🏦 Tổng tài sản: {total_now:,.0f} VNĐ
