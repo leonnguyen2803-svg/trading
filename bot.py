@@ -111,7 +111,7 @@ total_profit_pct = (total_profit_vnd / total_invest) * 100
 
 message = f"""
 ================================================================
-🟢 BTC 🪙 $BTC Spot ETF: -$82.2M
+🟢 BTC 
 Giá: {btc_usd:,.0f} USD
 Giá VNĐ: {btc_vnd:,.0f}
 Lợi nhuận: {btc_profit_pct:+.2f}% ({btc_profit_vnd:+,.0f} VNĐ)
